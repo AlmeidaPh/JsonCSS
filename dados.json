@@ -1,45 +1,56 @@
 {
     "modoClaro":[
         {
-            "corTitulo1": "#333333",
-            "corParagrafo1": "#333333",
-            "corNome1": "#333333",
-            "corSenha1": "#333333",
-            "corCard1": "#FFFF",
-            "corCorpo1": "#F2E7DC"
+            "corTitulo": "#333333",
+            "corParagrafo": "#333333",
+            "corNome": "#333333",
+            "corSenha": "#333333",
+            "corCard": "#FFFF",
+            "corCorpo": "#F2E7DC"
         }
     ],
     
     "modoEscuro":[
         {
-            "corTitulo2": "#333333",
-            "corParagrafo2": "#333333",
-            "corNome2": "#333333",
-            "corSenha2": "#333333",
-            "corCard2": "#FFFF",
-            "corCorpo2": "#f2E7DC"
+            "corTitulo": "#333333",
+            "corParagrafo": "#333333",
+            "corNome": "#333333",
+            "corSenha": "#333333",
+            "corCard": "#FFFF",
+            "corCorpo": "#f2E7DC"
         }
     ],
 
     "modoAmarelo":[
         {
-            "corTitulo3": "#333333",
-            "corParagrafo3": "#333333",
-            "corNome3": "#333333",
-            "corSenha3": "#333333",
-            "corCard3": "#FFFF",
-            "corCorpo3": "#F2C12E"
+            "corTitulo": "#333333",
+            "corParagrafo": "#333333",
+            "corNome": "#333333",
+            "corSenha": "#333333",
+            "corCard": "#FFFF",
+            "corCorpo": "#F2C12E"
         }
     ],
 
     "modoVermelho":[
         {
-            "corTitulo4": "#333333",
-            "corParagrafo4": "#333333",
-            "corNome4": "#333333",
-            "corSenha4": "#333333",
-            "corCard4": "#FFFF",
-            "corCorpo4": "#F23030"
+            "corTitulo": "#333333",
+            "corParagrafo": "#333333",
+            "corNome": "#333333",
+            "corSenha": "#333333",
+            "corCard": "#FFFF",
+            "corCorpo": "#F23030"
+        }
+    ],
+    
+    "modoAzul":[
+        {
+            "corTitulo": "#333333",
+            "corParagrafo": "#333333",
+            "corNome": "#333333",
+            "corSenha": "#333333",
+            "corCard": "#FFFF",
+            "corCorpo": "#F23030"
         }
     ]
 
