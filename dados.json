@@ -5,7 +5,7 @@
             "corParagrafo": "#333333",
             "corNome": "#333333",
             "corSenha": "#333333",
-            "corCard": "#FFFF",
+            "corCard": "#F2F2F2",
             "corCorpo": "#F2E7DC"
         }
     ],
@@ -16,41 +16,41 @@
             "corParagrafo": "#333333",
             "corNome": "#333333",
             "corSenha": "#333333",
-            "corCard": "#FFFF",
-            "corCorpo": "#f2E7DC"
+            "corCard": "#F2F2F2",
+            "corCorpo": "#2F3032"
         }
     ],
 
     "modoAmarelo":[
         {
-            "corTitulo": "#333333",
-            "corParagrafo": "#333333",
-            "corNome": "#333333",
-            "corSenha": "#333333",
-            "corCard": "#FFFF",
+            "corTitulo": "#F2BB16",
+            "corParagrafo": "#F2BB16",
+            "corNome": "#F2BB16",
+            "corSenha": "#F2BB16",
+            "corCard": "#F2F2F2",
             "corCorpo": "#F2C12E"
         }
     ],
 
     "modoVermelho":[
         {
-            "corTitulo": "#333333",
-            "corParagrafo": "#333333",
-            "corNome": "#333333",
-            "corSenha": "#333333",
-            "corCard": "#FFFF",
-            "corCorpo": "#F23030"
+            "corTitulo": "#1B1959",
+            "corParagrafo": "#1B1959",
+            "corNome": "#1B1959",
+            "corSenha": "#1B1959",
+            "corCard": "#F2F2F2",
+            "corCorpo": "#A60540"
         }
     ],
     
     "modoAzul":[
         {
-            "corTitulo": "#333333",
-            "corParagrafo": "#333333",
-            "corNome": "#333333",
-            "corSenha": "#333333",
-            "corCard": "#FFFF",
-            "corCorpo": "#F23030"
+            "corTitulo": "#6C91D9",
+            "corParagrafo": "#60A692",
+            "corNome": "#60A692",
+            "corSenha": "#60A692",
+            "corCard": "#F2F2F2",
+            "corCorpo": "#034C8C"
         }
     ]
 
